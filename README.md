@@ -1,1 +1,1 @@
-# Debate-GUI
+# MUN-Debate-GUI
